@@ -1,9 +1,9 @@
-<h1> ARM Templates </h1>
+# ARM Templates 
 
-This is a collection of JSON files that gives the ability to roll out Azure “Infrastructure as code" to be be used for the creation and deployment of Azure resources.
+This is a collection of JSON files that gives the ability to roll out Azure “Infrastructure as code" to be be used for the creation and deployment of Azure app service.
 <br/>
 
-<h1>Installation</h1>
+# Installation
 
 To deploy these ARM templates, you will need to have Azure CLI installed. Please see links below;
 
@@ -11,7 +11,7 @@ To deploy these ARM templates, you will need to have Azure CLI installed. Please
 
 https://docs.microsoft.com/bs-latn-ba/cli/azure/install-azure-cli-windows?view=azure-cli-latest
 
-<h1>Deployment</h1>
+# Deployment
 
 
 Now have installed  Azure CLI you are ready to deploy ARM templates. Please follow the below steps:
